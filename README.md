@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Swift iOS, Powershell, Azure, and much more
+- 🔭 I’m currently working on automations, sh scripts and much more
+- 🌱 I’m currently learning everything and keeping up to date
 - 👯 I’m looking to collaborate on most things
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
-- 📫 How to reach me: email
+- 📫 How to reach me: andreascorrell@mac.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
